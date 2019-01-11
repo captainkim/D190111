@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-git테스트 중입니다
-내용 추가요
+
 </body>
 </html>
